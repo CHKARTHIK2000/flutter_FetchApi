@@ -14,12 +14,6 @@ using **BLoC state management** and displays them in a modern **Neumorphic UI**.
 - User detail screen  
 - Clean folder structure  
 
----
-
-## 📸 Screenshots
-
-### 🟦 Home / User List Screen
-![List Screen](screenshots/list.png)
 
 ### 🟦 User Detail Screen
 ![Detail Screen](screenshots/detail.png)
