@@ -15,10 +15,5 @@ using **BLoC state management** and displays them in a modern **Neumorphic UI**.
 - Clean folder structure  
 
 
-### 🟦 User Detail Screen
-![Detail Screen](screenshots/detail.png)
 
-
-
-## 📁 Folder Structure
 
