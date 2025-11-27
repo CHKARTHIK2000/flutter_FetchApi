@@ -1,16 +1,30 @@
-# demo
+# Flutter User App (BLoC + API + Neumorphic UI)
 
-A new Flutter project.
+A simple and clean Flutter application that fetches users from  
+`https://jsonplaceholder.typicode.com/users`  
+using **BLoC state management** and displays them in a modern **Neumorphic UI**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Fetch users from REST API  
+- BLoC state management  
+- Neumorphic blue UI design  
+- User list with search  
+- User detail screen  
+- Clean folder structure  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🟦 Home / User List Screen
+![List Screen](screenshots/list.png)
+
+### 🟦 User Detail Screen
+![Detail Screen](screenshots/detail.png)
+
+
+
+## 📁 Folder Structure
+
