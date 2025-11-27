@@ -9,7 +9,6 @@ import 'user_detail_screen.dart';
 const background = Color.fromARGB(255, 255, 255, 255);
 const cardColor  = Color(0xFFF0F6FF);
 const avatarBg   = Color(0xFFD5E6FF);
-
 const darkShadow = Color(0xFFB8C7DA);
 const lightShadow = Color(0xFFFFFFFF);
 
